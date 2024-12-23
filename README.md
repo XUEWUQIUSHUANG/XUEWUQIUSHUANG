@@ -23,9 +23,15 @@
 <br/><br/>
 
 ### Frameworks
-<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
-<a href="https://www.blazor.zone/" target="_blank"><img align="left" alt="BootstrapBlazor" width="50px" style="padding:10px;" src="https://www.blazor.zone/favicon.png" /></a>
+<a href="https://vuejs.org/" target="_blank">
+    <img alt="Vue" width="50px" style="padding:10px; display:inline-block;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" width="50px" style="padding:10px; display:inline-block;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" />
+</a>
+<a href="https://www.blazor.zone/" target="_blank">
+    <img alt="BootstrapBlazor" width="50px" style="padding:10px; display:inline-block;" src="https://www.blazor.zone/favicon.png" />
+</a>
 <br/><br/>
 
 ### Database
